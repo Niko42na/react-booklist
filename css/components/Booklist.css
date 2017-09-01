@@ -1,0 +1,22 @@
+.Booklist .BooklistToolbar {
+  margin: 40px;
+}
+
+.Booklist .BooklistToolbarAdd {
+  float: left;
+}
+
+.Booklist .BooklistToolbarSearch {
+  float: right;
+}
+
+.Booklist .BooklistToolbarAddButton {
+  font-size: 32px;
+}
+
+.Booklist .BooklistDatagrid {
+  clear: both;
+  margin: 40px;
+  padding-top: 20px;
+}
+
